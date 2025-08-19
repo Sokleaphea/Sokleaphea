@@ -4,7 +4,7 @@
 
 ---
 ---
-<script src="https://gist.github.com/yazdipour/91dea3fdf97dba702ed89a6a1b9a98a7.js"></script>
+Check out this Gist: [My Gist](https://gist.github.com/yazdipour/91dea3fdf97dba702ed89a6a1b9a98a7)
 ---
 
 ## 🛠️ Tech Stack  

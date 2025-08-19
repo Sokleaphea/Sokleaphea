@@ -39,5 +39,5 @@
 
 ---
 
-✨ *“Code. Create. Conquer.”* ✨  
+✨ *“I don't know anything about coding😁”* ✨  
 

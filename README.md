@@ -4,15 +4,6 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 2nd-year **Computer Science (Software Engineering)** student  
-- 💻 Currently learning **C++**, **JavaScript**, and **Full-Stack Development**  
-- 🎨 Exploring **Photoshop** and creative design  
-- 🎸 Learning **guitar** as a screen-free hobby  
-- ⚡ Fun fact: I mix coding, design, and gaming into one big adventure!  
-
----
-
 ## 🛠️ Tech Stack  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
@@ -25,6 +16,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+
+---
+
+## 🚀 About Me  
+- 🎓 2nd-year **Computer Science (Software Engineering)** student  
+- 💻 Currently learning **C++**, **JavaScript**, and **Full-Stack Development**  
+- 🎨 Exploring **Photoshop** and creative design  
+- 🎸 Learning **guitar** as a screen-free hobby  
+- ⚡ Fun fact: I mix coding, design, and gaming into one big adventure!  
 
 ---
 
@@ -43,7 +43,7 @@
 ---
 
 ## 👀 Profile Views  
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Sokleaphea&color=blue&style=flat-square)  
 
 ---
 

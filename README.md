@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Leaphea  
-
-🌱 Passionate about **Software Engineering** | 🎮 Aspiring **Game Developer** | 🥊 Boxing Enthusiast  
-
+ 
 ---
 
 ## 🚀 About Me  

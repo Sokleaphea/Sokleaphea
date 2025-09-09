@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 2nd-year **Computer Science (Software Engineering)** student  
+- 🎓 2nd-year **Computer Science (Software Engineering)** student 
 - 💻 Currently learning **C++**, **JavaScript**, and **Full-Stack Development**  
 - 🎨 Exploring **Photoshop** and creative design  
 - 🎸 Learning **guitar** as a screen-free hobby  

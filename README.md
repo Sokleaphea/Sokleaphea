@@ -29,10 +29,4 @@
 
 ---
 
-## 👀 Profile Views  
-![Visitor Count](https://komarev.com/ghpvc/?username=Sokleaphea&color=blue&style=flat-square)  
-
----
-
-✨ *“I don't know anything about coding😁”* ✨  
 

@@ -31,6 +31,7 @@ Personal Project
 - Integrated REST APIs to fetch and display data
 - Implemented asynchronous data handling and state management for smooth UI updates
 - 🔗 [GitHub](https://github.com/Sokleaphea/specy-app)
+- 📱 [Download APK](https://github.com/Sokleaphea/specy-app/releases/tag/v1.0)
 
 ---
 
